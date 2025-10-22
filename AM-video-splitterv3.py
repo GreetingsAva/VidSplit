@@ -134,6 +134,7 @@ def split_video_by_audio(input_video_path, output_folder, min_increase_duration=
 
 
 # Example usage
-input_video_path = "F:/AJ/Python Splitting/Split/split.mkv"
-output_folder = "F:/AJ/Python Splitting/Complete/"
+input_video_path = "/Python Splitting/Split/split.mkv"
+output_folder = "/Python Splitting/Complete/"
 split_video_by_audio(input_video_path, output_folder)
+
